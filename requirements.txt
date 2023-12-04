@@ -8,3 +8,4 @@ scikit-learn
 hiplot
 statsmodels
 statistics
+random
