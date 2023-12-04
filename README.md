@@ -1,2 +1,2 @@
 # CMSE-Final-Project
-# My app link: https://cmse-830-mid-term-project-final-version-htcsbnjxl8dwxgkyiuzbq2.streamlit.app/
+# My app link: https://cmse-830-finalproject-pfaqcne3hwncwt3ryah3bz.streamlit.app/
